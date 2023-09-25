@@ -1,3 +1,5 @@
+# WHAT IS TODAY?
+
 This is web app helps inform of how you day looks depending on you time table.
 
 - You have to type the day on the seach panel
